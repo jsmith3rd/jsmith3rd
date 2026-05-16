@@ -8,16 +8,6 @@
 
 I'm an engineering leader, software developer, and designer with over 30 years of software development and management experience, building thoughtful systems with a visual design lens.
 
-## Open to Work
-
-![Open to Work](https://img.shields.io/badge/Open_to_Work-2EA44F?style=flat-square&logo=github&logoColor=white)
-![Full-Time](https://img.shields.io/badge/Full--Time-0A66C2?style=flat-square&logoColor=white)
-![Part-Time](https://img.shields.io/badge/Part--Time-6F42C1?style=flat-square&logoColor=white)
-
-I am actively seeking full-time and part-time opportunities in engineering leadership and management roles.
-
-My focus is leading teams to deliver thoughtful, useful products that solve real customer problems with strong execution, quality, and design sensibility.
-
 ## Technical Stack
 
 ### Languages
