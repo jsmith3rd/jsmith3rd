@@ -4,7 +4,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-jsmith3rd-4a89d6?style=flat-square&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/jsmith3rd)
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-hello%40jsmith3rd.dev-a8a198?style=flat-square&logo=email&logoColor=white)](mailto:hello@jsmith3rd.dev)
 
-Senior Technical Product Manager and product engineering leader with 16+ years delivering enterprise publishing, platform, and workflow software from strategy through launch. I work across product direction, architecture, UX, and engineering execution to turn complex requirements into systems teams can ship and users can trust.
+Senior Technical Product Manager and product engineering leader with 30+ years in software development, including 16+ years leading enterprise publishing, platform, and workflow products from strategy through launch. I work across product direction, architecture, UX, and engineering execution to turn complex requirements into systems teams can ship and users can trust.
 
 ## What I Focus On
 
