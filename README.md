@@ -71,6 +71,13 @@ Senior Technical Product Manager and product engineering leader with 30+ years i
 
 Before my current role, I worked in infrastructure and platform engineering, including high-availability enterprise systems, Linux-based tooling, award-winning interface design, and cross-functional software delivery in both enterprise and consumer product environments.
 
+## Currently Learning
+
+I'm exploring game development with Godot and GDScript, focused on building side-scrolling and point-and-click adventure games from design through implementation.
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+
 ## Connect
 
 - Portfolio: [jsmith3rd.dev](https://jsmith3rd.dev)
