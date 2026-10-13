@@ -9,27 +9,27 @@ Senior Technical Product Manager and product engineering leader with 30+ years i
 ## What I Focus On
 
 - Leading cross-functional teams through roadmap definition, delivery, release, and continuous improvement
-- Designing platform architecture for desktop, mobile, web, and service-based products
-- Simplifying complex workflows through UX, documentation systems, and developer experience improvements
 - Applying AI-assisted capabilities in practical ways that improve quality, reduce friction, and support real work
+- Simplifying complex workflows through UX, documentation systems, and developer experience improvements
+- Designing platform architecture for desktop, mobile, web, and service-based products
 
 ## Selected Work
 
 - Led delivery of a cross-platform word processing application for macOS and Windows using Vue, TypeScript, and Electron
-- Built a documentation hub with VuePress, Vite, and custom TypeScript extensions to improve navigation, ownership visibility, and team workflows
-- Architected a resilient C# service platform with modular plugin architecture, Entity Framework, and MS SQL Server for shared enterprise data exchange
-- Directed development of a Microsoft Word add-in that abstracts XML-based structure for authors and adds AI-assisted proofreading and structural validation
-- Implemented cross-region synchronization across three regions to improve platform consistency and performance
 - Managed product and engineering delivery for desktop, mobile, and service applications used across global publishing workflows
+- Directed development of a Microsoft Word add-in that abstracts XML-based structure for authors and adds AI-assisted proofreading and structural validation
+- Architected a resilient C# service platform with modular plugin architecture, Entity Framework, and MS SQL Server for shared enterprise data exchange
+- Implemented cross-region synchronization across three regions to improve platform consistency and performance
+- Built a documentation hub with VuePress, Vite, and custom TypeScript extensions to improve navigation, ownership visibility, and team workflows
 
 ## Core Strengths
 
 - Product strategy and roadmap ownership
+- AI-assisted workflow enablement
 - Technical architecture and systems design
 - UX and visual design direction
-- Documentation governance and information architecture
 - Agile delivery leadership and stakeholder alignment
-- AI-assisted workflow enablement
+- Documentation governance and information architecture
 
 ## Technology
 
